@@ -1,0 +1,1 @@
+# Object detection with YOLOv5 placeholder
